@@ -1,0 +1,2 @@
+# gitgnore
+Arquivo de gitgnore
